@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Nastasia Nastasia](https://up.htmlacademy.ru/htmlcss/29/user/354143).
-* Наставник: [Захар Авсиевичu](https://htmlacademy.ru/profile/id846143).
+* Наставник: [Захар Авсиевич](https://htmlacademy.ru/profile/id846143).
 
 ---
 
